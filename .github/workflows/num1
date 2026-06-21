@@ -19,4 +19,4 @@ jobs:
         run: pip install requests
 
       - name: Run script
-        run: python hello.py
+        run: python main.py
